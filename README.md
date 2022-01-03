@@ -8,6 +8,7 @@ The game has 2 modes - Easy and hard.
 easy level has 3 square tiles option while hard level has 6 square tile options
 
 HOW THE GAME WORKS
+
 The combination of 3 RGB values will give one rgb value which is dispalyed among 6 or 3 square tiles.
 
 There are 6 tiles and one of the tiles RGB value is the same as the combination of the RGB value displayed on the header.
